@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #c03434;
+}
+
+.header{
+    margin: 0px;
+    height: 20em;
+    padding: 5em;
+    background-image: url("../img/fh.jpg");
+    background-size: cover;
+    background-position: center;
+    
+}
+.header h1{
+    margin: opx;
+    color: azure;
+    font-size: 3em;
+}
+.header p{
+    color: azure;
+    font-size: 1em;
+}
+
+.peliculas{
+    width: 80%;
+    margin: auto;
+    
+    
+}
+.peliculas td{
+    width: 50%;
+    padding: 2em;
+    color: azure;
+    font-size: 1.5em;
+}
+.peliculas img{
+    width: 100%;
+    border:solid 1px #ddd;
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(40, 40, 88);
+    color: azure;
+    text-align: center;
+    font-weight: 900;
+}
